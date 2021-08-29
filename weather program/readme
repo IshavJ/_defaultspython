@@ -1,1 +1,9 @@
+# python program to fetch weather realted data via api .
 
+to get your own registered api key : visits - "https://openweathermap.org/" .
+certain imports are neccesary to run program.
+
+when you have regitered yourself with openweather site and attain your particular key.
+save those data in your environment for security purpose and use os.environ() function to fetch those details for your program.
+
+Other details are as in the program.
